@@ -2,11 +2,11 @@ var myapp = new Vue({
   el: '#app',
   data: {
     totalSalary: 368000,
-    personalDiscountYear: 779112,
+    personalDiscountYear: 824288,
     steps: [
-      { taxPct: 31.48, limit: 446136},
-      { taxPct: 37.98, limit: 1252501},
-      { taxPct: 46.28, limit: 0}
+      { taxPct: 31.49, limit: 472005},
+      { taxPct: 37.99, limit: 1325127},
+      { taxPct: 46.29, limit: 0}
     ],
 
     examples: [
